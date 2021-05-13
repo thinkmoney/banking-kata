@@ -12,10 +12,10 @@ Here's the specification for an acceptance test that expresses the desired behav
 
 Then they would see:
 
->``Date || Amount || Balance``  
->``14/01/2012 || -500 || 2500``  
->``13/01/2012 || 2000 || 3000``  
->``10/01/2012 || 1000 || 1000``
+>Date || Amount || Balance  
+>14/01/2012 || -500 || 2500  
+>13/01/2012 || 2000 || 3000  
+>10/01/2012 || 1000 || 1000
 
 **Further Guidance**  
 - Writing your tests first may help steer you in your design, you can use a testing framework
@@ -26,4 +26,4 @@ acceptance test to ignore whitespace if you wanted to.)
 - When in doubt, go for the simplest solution!  
 - You can Google syntax.  
 
-You may want to start with a *`deposit(amount)`* function and go from there…
+You may want to start with a *deposit(amount)* function and go from there…
