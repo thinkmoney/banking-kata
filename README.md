@@ -36,7 +36,7 @@ If you have git installed then you can run the following commands in your termin
 
 ```sh
 git init
-git clone https://github.com/robinjmc/BankingKataTemplate.git
+git clone https://github.com/think-money/banking-kata.git
 ```
 
 *Alternatively download and unzip the folder from github*  
