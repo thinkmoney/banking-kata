@@ -11,12 +11,14 @@ Here's the specification for an acceptance test that expresses the desired behav
 ***When they print their bank statement***  
 
 Then they would see:
+
 ```
 Date || Amount || Balance  
 14/01/2021 || -500 || 2500  
 13/01/2021 || 2000 || 3000  
 10/01/2021 || 1000 || 1000
 ```
+
 
 ### **Further Guidance**  
 - Writing your tests first may help steer you in your design, you can use a testing framework
@@ -27,24 +29,24 @@ acceptance test to ignore whitespace if you wanted to.)
 - When in doubt, go for the simplest solution!  
 - You can Google syntax.  
 
-You may want to start with a *deposit(amount)* function and go from there…
+You may want to start with a `deposit(amount)` function and go from there…
 
-
+### Pre-requisties
+- Node.js
+- Git client (optional)
 
 ### **Download**  
 If you have git installed then you can run the following commands in your terminal:
 
 ```sh
-git init
 git clone https://github.com/think-money/banking-kata.git
 ```
 
-*Alternatively download and unzip the folder from github*  
+Alternatively download and unzip the folder from GitHub.
 
 ### **Setup** 
 
 ```sh
-npm init
 npm install
 ```
-Run `npm test` in the console to ensure that the jest framework is working correctly. Happy coding!"# banking-kata" 
+Run `npm test` in the console to ensure that the Jest framework is working correctly. Happy coding!
