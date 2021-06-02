@@ -1,7 +1,7 @@
 {
   "name": "banking-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Develop an application that can deposit funds, withdraw funds and print a statement of a customer’s\r bank account activity.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^26.6.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinjmc/BankingKataTemplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robinjmc/BankingKataTemplate/issues"
+  },
+  "homepage": "https://github.com/robinjmc/BankingKataTemplate#readme"
 }
