@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robinjmc/BankingKataTemplate.git"
+    "url": "git+https://github.com/think-money/banking-kata.git"
   },
   "bugs": {
-    "url": "https://github.com/robinjmc/BankingKataTemplate/issues"
+    "url": "https://github.com/think-money/banking-kata/issues"
   },
-  "homepage": "https://github.com/robinjmc/BankingKataTemplate#readme"
+  "homepage": "https://github.com/think-money/banking-kata#readme"
 }
