@@ -11,12 +11,12 @@ Here's the specification for an acceptance test that expresses the desired behav
 ***When they print their bank statement***  
 
 Then they would see:
-
->Date || Amount || Balance  
->14/01/2021 || -500 || 2500  
->13/01/2021 || 2000 || 3000  
->10/01/2021 || 1000 || 1000
-
+```
+Date || Amount || Balance  
+14/01/2021 || -500 || 2500  
+13/01/2021 || 2000 || 3000  
+10/01/2021 || 1000 || 1000
+```
 
 ### **Further Guidance**  
 - Writing your tests first may help steer you in your design, you can use a testing framework
