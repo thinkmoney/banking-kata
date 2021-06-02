@@ -47,4 +47,4 @@ git clone https://github.com/robinjmc/BankingKataTemplate.git
 npm init
 npm install
 ```
-Run `npm test` in the console to ensure that the jest framework is working correctly. Happy coding!
+Run `npm test` in the console to ensure that the jest framework is working correctly. Happy coding!"# banking-kata" 
